@@ -1,9 +1,6 @@
 ---
 layout: schedule
-title: 2022 Summer Schedule
-
-canvas: 
-  assignment_url: 'https://gastate.view.usg.edu/d2l/home/2578896'
+title: 2025 Summer Schedule
 ---
  
 <!--- 
@@ -34,35 +31,7 @@ Submit Button - <a class="uk-button uk-button-primary" href="https://gastate.vie
 
 ## About Your Instructor
 
-Play the video below to learn a bit more about your instructor for the course, Jamison Crawford.
-
-* Visit his [GitHub](https://github.com/jamisoncrawford) profile
-* View his [RPubs](https://rpubs.com/jamisoncrawford) portfolio
-* Connect on [LinkedIn](https://www.linkedin.com/in/jamisoncrawford/)
-
-<br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C1A5x6LCDJo?rel=0&modestbranding=1&autohide=1&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br>
-
-Visit the [video](https://youtu.be/C1A5x6LCDJo) to navigate using timestamps in the description or bookmarks in the progress bar.
-
-* (**00:00**) Introduction
-* (**00:07**) Two Universities, One Course
-* (**01:06**) My Relationship to the Course
-* (**01:38**) Teaching Experience & Course Origins
-* (**02:30**) What I Do as a Data Scientist
-* (**04:10**) Want a "Hard" Skill?  Do the Work!
-* (**05:40**) Course Resources & Assignment Tips
-* (**07:21**) Resources to Learn & Resources to Ignore
-* (**09:06**) Why the "Unofficial" YouTube Channel Is Invaluable
-* (**09:44**) Weekly To-Do Checklists 
-* (**10:26**) Dispute Your Irrational Beliefs on Data Science
-* (**11:18**) First Assignment: Introduce Yourself
-* (**11:33**) Express Yourself
-
-<br>
+[I'm Jared](https://jgreathouse9.github.io/). I am a PHD student of public policy at Georgia State. I am also an applied scientist in marketing tech and a consultant at World Bank. I am an econometrician who specializes in causal inference methods for program evaluation.
 
 *** { @unit = "", @title = "The R Toolkit", @reading, @lecture, @foldout }
 
@@ -395,7 +364,7 @@ The following checklist will help you organize and prepare for success in this c
 
 <br>
 
-*** { @unit = "Due WED June 8", @title = "Introduce Yourself", @assignment, @foldout }
+*** { @unit = "Due WED June 11", @title = "Introduce Yourself", @assignment, @foldout }
 
 <br>
 

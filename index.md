@@ -13,24 +13,18 @@ info:
  course_number: ECON 8000 / PMAP 8921 / CRJU 8830
  course_level: Graduate 
  course_website: 'https://gastate.view.usg.edu/d2l/home/2578896'
- course_start_end_dates: Monday, June 6 to Monday, July 25, 2022
+ course_start_end_dates: Monday, June 6 to Monday, July 25, 2025
  course_prerequisites:  
  class_meets_when:  Asynchronous  
  class_meets_where:  Online
- review_sessions_where:
- discussion_board_url: 'https://cssearcy.github.io/AYS-R-Coding-SPR-2020/help/'
 
 instructor:
--  name: Jamison Crawford
-   title: Associate Faculty
+-  name: Jared Greathouse
+   title: PHD Candidate
    email: jamisoncrawfordgsu@gmail.com
    office_location: 
-   website_url: 'https://rpubs.com/jamisoncrawford'
-   github_url: 'https://github.com/jamisoncrawford' 
-   linked_in_url: 'https://www.linkedin.com/in/jamisoncrawford/'
-   office_hours_time: See Schedule
-   office_hours_location:  
-   office_hours_app_url: 'https://calendly.com/jamisoncrawford/20min'
+   github_url: 'https://jgreathouse9.github.io/' 
+   office_hours_time: Appointment Only
   
 --- 
 
@@ -211,8 +205,6 @@ Grades for the course are largely based on weekly labs. Assigned work is accompa
 ## F. Course Communications and Instructor Feedback:
 
 **Course content** is hosted on this website. Lecture files, assignments and other course communications will be transmitted via this site and/or through the class email list. **All assignment submissions** will be made through the [**iCollege course shell**](https://gastate.view.usg.edu/d2l/home/2578896). 
-
-Please post lab questions on the course [**GitHub repository**](https://github.com/DS4PS/ays-r-coding-sum-2022/issues), schedule individual office hours using the Calendly link provided above, and *email the instructor directly instead of using the iCollege system*. You can learn more about how to create an effective GitHub issue by visiting this **[quick guide](https://github.com/DS4PS/ays-r-coding-sum-2022/issues/1)**.
 
 Students should be aware that the course instructor will attempt to respond to any course-related email as quickly as possible. Students are asked to allow between 24 and 48 hours for replies to direct instructor emails, generally, as a reasonable time to reply to questions or other issues posed in an email. Additionally, the general timeline for instructor grading or other feedback on assignments, either written work or online discussion, is approximately one week after submission deadlines.
 

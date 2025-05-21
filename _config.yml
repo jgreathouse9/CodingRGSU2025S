@@ -10,8 +10,8 @@ description:        Intro course in data programming in R
 
 # Site subpath, e.g. /blog
 url :               "http://ds4ps.org"
-baseurl:            "/ays-r-coding-sum-2022"
-course_url:         "http://ds4ps.org/ays-r-coding-sum-2022/"
+baseurl:            "/ays-r-coding-sum-2025"
+course_url:         "http://ds4ps.org/ays-r-coding-sum-2025/"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
@@ -37,7 +37,7 @@ header:
 - title: iCourse 
   url: https://gastate.view.usg.edu/d2l/home/2578896 
 - title: Issues
-  url: https://github.com/DS4PS/ays-r-coding-sum-2022/issues
+  url: https://github.com/DS4PS/ays-r-coding-sum-2025/issues
 
 
 
@@ -45,14 +45,14 @@ header:
 
 # Default author settings
 author:
-    name:       Jamison Crawford
-    github:     jamisoncrawford   # Github username for avatar
+    name:       Jared Greathouse
+    github:     jgreathouse9   # Github username for avatar
 
 github_info:
     username:          DS4PS # Github location of the course
     branch:            main
-    website-repo:      ays-r-coding-sum-2022
-    course-repo:       ays-r-coding-sum-2022
+    website-repo:      CodingRGSU2025S
+    course-repo:       CodingRGSU2025S
 
 
 

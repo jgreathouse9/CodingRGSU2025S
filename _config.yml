@@ -10,7 +10,7 @@ description:        Intro course in data programming in R
 
 # Site subpath, e.g. /blog
 url :               "https://jgreathouse9.github.io"
-baseurl:            "/Coding-in-R"
+baseurl:            "/CodingRGSU2025S"
 course_url:         "http://ds4ps.org/ays-r-coding-sum-2025/"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/

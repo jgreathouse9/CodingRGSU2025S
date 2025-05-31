@@ -376,7 +376,7 @@ We will be using the course discussion board in **iCollege** for this course. Fi
 2. Your previous experience with data analytics 
 3. One thing you hope to do with your new skills in data analytics 
 
-<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/le/2578896/discussions/List">Post on iCollege</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/le/3353358/discussions/List">Post on iCollege</a>
 
 <br>
 <br>

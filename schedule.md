@@ -25,7 +25,7 @@ Submit Button - <a class="uk-button uk-button-primary" href="https://gastate.vie
 
 ** Welcome
 
-*** { @unit = "", @title = "Meet Your Instructor", @lecture, @foldout }
+*** { @unit = "Intro", @title = "Meet Your Instructor", @lecture, @foldout }
 
 <br>
 

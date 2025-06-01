@@ -673,7 +673,7 @@ The following checklist will help you stay organized in your first week.
 
 <br>
 
-*** { @unit = "FRI June 10", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "WED June 11", @title = "Discussion Topic", @assignment, @foldout  }
 
 ## The Promise of Big, Open Data
 
@@ -875,7 +875,7 @@ The following checklist will help you stay organized in your second week.
 
 <br>
 
-*** { @unit = "FRI June 17", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "WED June 18", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 
@@ -912,7 +912,7 @@ Take note, this assignment asks you to explore a new community where the technic
 <br>
 <br>
 
-*** { @unit = "SUN June 19", @title = "Lab 02", @assignment, @foldout }
+*** { @unit = "FRI June 20", @title = "Lab 02", @assignment, @foldout }
 
 <br>
 <br>
@@ -1075,7 +1075,7 @@ The following checklist will help you stay organized in your third week.
 
 <br>
 
-*** { @unit = "FRI June 24", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "WED June 25", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1095,7 +1095,7 @@ You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/
 <br>
 <br>
 
-*** { @unit = "SUN Jun 26", @title = "Lab 03", @assignment, @foldout  }
+*** { @unit = "FRI Jun 27", @title = "Lab 03", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1268,7 +1268,7 @@ The following checklist will help you stay organized in your fourth week.
 
 <br>
 
-*** { @unit = "FRI July 1", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "WED July 2", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1290,7 +1290,7 @@ This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-
 <br>
 <br>
 
-*** { @unit = "SUN July 3", @title = "Lab 04", @assignment, @foldout  }
+*** { @unit = "THU July 3", @title = "Lab 04", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1445,7 +1445,7 @@ The following checklist will help you stay organized in your fifth week.
 
 <br>
 
-*** { @unit = "FRI July 8", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "WED July 9", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1479,7 +1479,7 @@ You can find APIs through a Google search, or browse datasets on the [DS4PS Open
 <br>
 <br>
 
-*** { @unit = "SUN July 10", @title = "Lab 05", @assignment, @foldout  }
+*** { @unit = "FRI July 11", @title = "Lab 05", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1588,7 +1588,7 @@ The following checklist will help you stay organized in your sixth week.
 
 <br>
 
-*** { @unit = "FRI July 15", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "WED July 16", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 
@@ -1646,7 +1646,7 @@ Do you think open source frameworks would help open the black box and make gover
 <br>
 <br>
 
-*** { @unit = "SUN July 17", @title = "Lab 06", @assignment, @foldout  }
+*** { @unit = "FRI July 18", @title = "Lab 06", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1705,7 +1705,7 @@ The following checklist will help you stay organized for your final week.
 
 <br>
 
-*** { @unit = "FRI July 22", @title = "Code-Through Project", @assignment, @foldout  }
+*** { @unit = "WED July 23", @title = "Code-Through Project", @assignment, @foldout  }
 
 <br>
 
@@ -1734,7 +1734,7 @@ Download the recommended template for your code-through with the below link.
 <br>
 <br>
 
-*** { @unit = "MON July 25", @title = "Final Dashboard Project", @assignment, @foldout  }
+*** { @unit = "FRI July 25", @title = "Final Dashboard Project", @assignment, @foldout  }
 
 <br>
 

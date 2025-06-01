@@ -5,7 +5,7 @@ title: Syllabus
 index:
   title: "Coding in R for Policy Analytics"
   image: r-logo.png
-  subtitle: "This course introduces students to the field of data science and its applications in the public and nonprofit sectors. Modern performance management and evaluation processes require strong data literacy and the ability to combine and analyze data from a variety of sources to inform managerial processes. This course offers a practical, tools-based approach that is designed to build strong foundations for people that want to work as analysts, data-driven managers, or data-driven journalists. It will cover data programming fundamentals, visualization, text analysis, automated reporting, and dynamic reporting using dashboards. The course is analytically rigorous, but no prior programming experience is assumed. The textbook for this course is: https://ds4ps.org/cpp-526-fall-2019/textbook."
+  subtitle: "This course introduces students to the field of data science and its applications in the public and nonprofit sectors. Modern performance management and evaluation processes require strong data literacy and the ability to combine and analyze data from a variety of sources to inform managerial processes. This course offers a practical, tools-based approach that is designed to build strong foundations for people that want to work as analysts, data-driven managers, or data-driven journalists. It will cover data programming fundamentals, visualization, text analysis, automated reporting, and dynamic reporting using dashboards. The course is analytically rigorous, but no prior programming experience is assumed. The textbook for this course is found at: https://ds4ps.org/cpp-526-fall-2019/textbook."
 
 info: 
   program_title: "AYS Digital Landscape Initiative"
@@ -55,7 +55,7 @@ The five main learning objectives for the course are:
 
 ## D. Course Prerequisites:
 
-There are no prerequisites, and we do not assume any prior background in computer programming or statistics. Students should, however, have installed R and R Studio, and worked through a basic tutorial on R Studio.
+There are no prerequisites, and we do not assume any prior background in computer programming or statistics. Students should, however, have installed R and [R Studio](https://youtu.be/YrEe2TLr3MI?si=BPFtIHs4R9y9Jp8w).
 
 # II. Assessment of Student Performance & Proficiency
 

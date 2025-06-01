@@ -342,9 +342,7 @@ Fences are made with three "backticks".
 
 ## Schedule Office Hours
 
-Barring emergencies, always sincerely attempt the steps listed in "Use Your Resources" and "Post on GitHub Issues" before scheduling. 
-
-Then, and only then, should you **[schedule an appointment on your instructor's Calendly](https://calendly.com/jamisoncrawford/20min)**.
+Barring emergencies, always sincerely attempt the steps listed in "Use Your Resources" before meeting with me. Otherwise, just email me and we can set up some time to talk
 
 <br>
 <br>
@@ -713,7 +711,7 @@ You can earn up to 20 points a week, and points reseton the due date. You need t
 <br>
 <br>
 
-*** { @unit = "SUN June 12", @title = "Lab 01", @assignment, @foldout  }
+*** { @unit = "Friday June 13", @title = "Lab 01", @assignment, @foldout  }
 
 <br>
 
